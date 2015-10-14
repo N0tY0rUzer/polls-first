@@ -3,3 +3,4 @@
 
 - This is my first github repo. It is not an actual repo!
 - I love coding
+- I love to watch speedruns
